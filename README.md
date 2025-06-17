@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/monteslu-vibe-eyes-badge.png)](https://mseep.ai/app/monteslu-vibe-eyes)
+
 # Vibe-Eyes
 
 An MCP server that enables LLMs to "see" what's happening in browser-based games and applications through vectorized canvas visualization and debug information.
